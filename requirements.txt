@@ -1,0 +1,3 @@
+# resuirquirements txt
+Flask==2.1.2
+Flask-SQLAlchemy==2.5.1
